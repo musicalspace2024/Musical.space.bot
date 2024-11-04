@@ -7,7 +7,7 @@ from highrise.models import SessionMetadata
 
 dono = ["Pondori"]
 
-moderators = ["iMooseMoo","Pondoro","Pondori","wyxe","__Vanilla","_ILyh","Alaska_"]
+moderators = ["iMooseMoo","lWedni","Pondoro","Pondori","wyxe","__Vanilla","_ILyh","Alaska_"]
 
 cara = ["😢caiu coroa mais sorte na proxima...","parabens você ganhou caiu cara..."]
 
