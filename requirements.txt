@@ -1,0 +1,8 @@
+highrise-bot-sdk
+requests
+websocket-client
+aiohttp
+asyncio
+python-dotenv
+pytz
+loguru
